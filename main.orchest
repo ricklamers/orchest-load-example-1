@@ -1,0 +1,32 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "services": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "5c8009b4-94e0-40b0-8c70-b275a4f1266f": {
+            "environment": "d9b5dd08-870f-438f-8eb7-1050475a2d68",
+            "file_path": "load.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    113.5,
+                    256.5
+                ]
+            },
+            "parameters": {},
+            "title": "Download & resize",
+            "uuid": "5c8009b4-94e0-40b0-8c70-b275a4f1266f"
+        }
+    },
+    "uuid": "4535f8ac-261f-46b3-9ffd-27174858f33d",
+    "version": "1.2.2"
+}
